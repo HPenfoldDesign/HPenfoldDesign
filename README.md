@@ -1,6 +1,11 @@
-I'm a multi-talented graphic designer and front-end web developer based in the UK. 
-I specialise in designing / building eye-catching, interactive experiences for my clients.
-I have formal training and experience in HTML5, CSS3 / SASS, JS and Bootstrap and Git. I also have a working knowledge of PHP and Node.js, but retain a front-end focus.
-CMS's and Platforms include Wordpress, Drupal and Coremedia, Piano.io, Google Tag manager and Google Analytics.
-Im currently learning react.js with Redux, React Routing and Next.js.
+In the industry, I'm often amusingly dubbed as a 'unicorn'. The first eight years of my career was spent in graphic design. My work spread across a large range of mediums from print, editorial, advertising through to digital UI and UX. I decided to switch to a career in front-end web development around four years ago, because I love building interactive design features and constantly learning new skills. I like to work with passionate teams, problem solving to reach a common goal. For a more detailed look at my skill-set, see below:
 
+HTML / XML
+CSS, SASS, Bootstrap
+JavaScript and API's
+Some React.js/ Vue.js
+CMS based PHP
+NPM / Webpack / GIT
+Jira / clickup
+Domains, hosting
+Cloudflare
